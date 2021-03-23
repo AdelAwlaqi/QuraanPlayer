@@ -64,11 +64,13 @@ class RadioViewController: UIViewController {
     }
     
     
-    
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        player?.pause()
+    }
     
     
     func getAllRadios () {
-        
         Alamofire.request(StaionsURL, method: .get).responseJSON {
             response in
             if response.error == nil {

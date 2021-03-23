@@ -862,14 +862,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 87F9WELQU4;
+				DEVELOPMENT_TEAM = A7S8PCJ345;
 				INFOPLIST_FILE = QuraanPlayer/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.AdelKazme.QuraanPlayer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AdelKazme.QuraanPlayerRadio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -882,14 +882,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = UAR2C5KD62;
+				DEVELOPMENT_TEAM = A7S8PCJ345;
 				INFOPLIST_FILE = QuraanPlayer/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.AdelKazme.QuraanPlayer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AdelKazme.QuraanPlayerRadio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
